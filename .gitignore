@@ -1,3 +1,6 @@
 node_modules
 package-lock.json
 package.json
+.\pass-it-around\node_modules
+.\pass-it-around\package-lock.json
+.\pass-it-around\package.json
